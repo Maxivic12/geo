@@ -1,0 +1,37 @@
+IMAGES:
+	Accueil:
+		- video accueil : https://www.youtube.com/watch?v=7dm4eqcuZ6I
+	Atouts:
+		- image chine intro : https://chine.in/fichiers/1138900991.gif
+		- icone climat : https://www.flaticon.com/fr/icone-gratuite/pluvieux_6909456?related_id=6909456
+		- icone relief : https://fr.123rf.com/photo_69122817_relief-isom%C3%A9trique-ic%C3%B4ne-plat.html
+		- centrale nucléaires : https://www.heidi.news/sciences-climat/feu-vert-a-la-construction-de-deux-nouvelles-centrales-nucleaires-en-chine
+		- image Yangzi Jiang : https://peapix.com/bing/13201
+		- image Le Fleuve Jaune : https://www.initiativesfleuves.org/fleuves/fleuve-jaune/
+		- image La rivière des perles : https://sophot.org/galerie_virtuelle/le-delta-de-la-riviere-des-perles/
+		- image Le fleuve Xi : https://fr.wikipedia.org/wiki/Xi_(fleuve)#/media/Fichier:Xijiang_Zhaoqing.JPGjaune/
+		- image L'Argoun : https://fr.ripleybelieves.com/argun-river-11150
+		- image Le Songhua : https://media.gettyimages.com/photos/tourists-view-the-rime-landscape-along-the-rime-corridor-beside-the-picture-id1229867617?k=20&m=1229867617&s=612x612&w=0&h=TN-anFx8vuEZhx81Ht7IhV7DNaWcHZz6vuXJoDoZraw=
+		- image Le Liao : https://fr.wikipedia.org/wiki/Liao#/media/Fichier:%E7%9B%98%E9%94%A6%E8%8A%A6%E8%8B%87%E8%8D%A1.JPG
+		- image Le Hai He : https://fr.freepik.com/photos-premium/belle-vue-nuit-riviere-hai-he-tianjin-chine_1400442.htm
+	Contraintes:
+		- desert gobi image : voyageursdumonde.be/voyage-sur-mesure/recherche-voyage-tag/voyage-desert-de-gobi
+		- image seisme : https://www.freepng.fr/png-nwhru6/
+		- icone montagne : https://www.freepng.fr/png-cnzh3r/
+		- densité population image : https://cartonumerique.blogspot.com/2020/01/densites-chine.html
+
+SOURCES:
+	Atouts:
+		-https://escaledenuit.com/les-plus-grands-fleuves-de-chine/
+		-https://fr.wikipedia.org/wiki/Yangzi_Jiang
+		-https://fr.wikipedia.org/wiki/Fleuve_Jaune
+		-https://fr.wikipedia.org/wiki/Rivi%C3%A8re_des_Perles
+		-https://fr.wikipedia.org/wiki/Xi_(fleuve)
+		-https://fr.wikipedia.org/wiki/Argoun_(Asie)
+		-https://fr.wikipedia.org/wiki/Songhua
+		-https://fr.wikipedia.org/wiki/Liao
+		-https://fr.wikipedia.org/wiki/Hai_He
+		-https://www.youtube.com/watch?v=FbZLElk4ae4
+	Contraintes:
+		-https://www.youtube.com/watch?v=El-lj97GrhY
+	
