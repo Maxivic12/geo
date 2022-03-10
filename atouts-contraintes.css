@@ -89,7 +89,7 @@ header .logo
     margin-bottom: 30px;
 }
 
-.atouts
+.contraintes
 {
     background-color: #FFF;
     color: black;
@@ -97,8 +97,8 @@ header .logo
     text-align: center;
 }
 
-/* ATOUT1 + CARTES */
-.atouts .atout1
+/* contrainte1 + CARTES */
+.contraintes .contrainte1
 {
     color: #111;
     background-color: #f2f2f2;
@@ -106,7 +106,7 @@ header .logo
     padding-top: 100px;
 }
 
-.atouts .atout1 h1 
+.contraintes .contrainte1 h1 
 {
     font-size: 2em;
     margin-bottom: 120px;
@@ -188,8 +188,8 @@ header .logo
     transform: translateY(-110px) rotateX(90deg);
 }
 
-/* ATOUT 2 */
-.atouts .atout2
+/* contrainte 2 */
+.contraintes .contrainte2
 {
     background-color: #111;
     color: #fff;
@@ -199,13 +199,13 @@ header .logo
     height: 100%;
 }
 
-.atouts .atout2 img 
+.contraintes .contrainte2 img 
 {
     width: 50vw;  
     display: block;
 }
 
-.atouts .atout2 .text
+.contraintes .contrainte2 .text
 {
     display: flex;
     flex-direction: column;
@@ -213,7 +213,37 @@ header .logo
     margin: auto 50px;  
 }
 
-.atouts .atout2 .text h1 
+.contraintes .contrainte2 .text h1 
+{
+    margin-bottom: 70px;
+}
+
+/* contrainte 3 */
+.contraintes .contrainte3
+{
+    background-color: #fff;
+    color: #111;
+    display: flex;
+    flex-direction: row-;
+    align-items: center;
+    height: 100%;
+}
+
+.contraintes .contrainte3 img 
+{
+    width: 50vw;  
+    display: block;
+}
+
+.contraintes .contrainte3 .text
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto 50px;  
+}
+
+.contraintes .contrainte3 .text h1 
 {
     margin-bottom: 70px;
 }
@@ -222,6 +252,7 @@ header .logo
 .footer
 {
     width: 100%;
+    height: 100px;
     bottom: 20px;
     display: flex;
     justify-content: space-around;
@@ -238,3 +269,4 @@ header .logo
     color: #fff;
     text-decoration: none;
 }
+
